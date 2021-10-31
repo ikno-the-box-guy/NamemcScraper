@@ -6,3 +6,5 @@ Works on player profiles namemc.com page where ?page=1 can appear behind.
 
 > There's a weird bug where the app sometimes returns a 403 and sometimes it doesn't.
 > If the app returns a 403 try using it again and if it still doesn't work try again later.
+
+Feel free to contact me on discord if you have any questions: Ikno#5931
