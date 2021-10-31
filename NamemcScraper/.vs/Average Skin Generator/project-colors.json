@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67ee205e-4fd7-40e9-9b27-964722ef23c4": {
+      "ProjectGuid": "67ee205e-4fd7-40e9-9b27-964722ef23c4",
+      "DisplayName": "Average Skin Generator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,9 @@
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\Average Skin Generator.exe.config
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\Average Skin Generator.exe
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\Average Skin Generator.pdb
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\System.Drawing.Common.dll
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\obj\Debug\Average Skin Generator.csproj.AssemblyReference.cache
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\obj\Debug\Average Skin Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\obj\Debug\Average Skin Generator.csproj.CoreCompileInputs.cache
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\obj\Debug\Average Skin Generator.exe
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\obj\Debug\Average Skin Generator.pdb
