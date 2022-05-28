@@ -5,6 +5,5 @@ C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Re
 C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\obj\Release\Average Skin Generator.csproj.AssemblyReference.cache
 C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\obj\Release\Average Skin Generator.csproj.SuggestedBindingRedirects.cache
 C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\obj\Release\Average Skin Generator.csproj.CoreCompileInputs.cache
-C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\obj\Release\Average Skin Generator.csproj.CopyComplete
 C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\obj\Release\Average Skin Generator.exe
 C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\obj\Release\Average Skin Generator.pdb

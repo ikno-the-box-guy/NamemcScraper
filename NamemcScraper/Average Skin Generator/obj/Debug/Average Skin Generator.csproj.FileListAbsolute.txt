@@ -7,3 +7,21 @@ C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\obj\De
 C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\obj\Debug\Average Skin Generator.csproj.CoreCompileInputs.cache
 C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\obj\Debug\Average Skin Generator.exe
 C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\obj\Debug\Average Skin Generator.pdb
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\Selenium.Extensions.dll
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\Sl.Selenium.Extensions.Chrome.dll
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\System.Buffers.dll
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\System.Memory.dll
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\WebDriver.dll
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\WebDriver.Support.dll
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\System.Buffers.xml
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\System.Memory.xml
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\WebDriver.xml
+C:\Users\erwtj\source\repos\Average Skin Generator\Average Skin Generator\bin\Debug\WebDriver.Support.xml
